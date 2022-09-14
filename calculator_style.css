@@ -1,0 +1,43 @@
+.heading {
+    color: rgb(12, 6, 18);
+    text-align: center;
+}
+/* for complete box allignment */
+.field {
+    background-color: rgb(45, 115, 236);
+    margin: 400px 350px 300px 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.field2 {
+    background-color: rgba(136, 16, 173, 0.911);
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* for display */
+.myclass {
+    color: black;
+    background-color: beige;
+    align: center;
+    margin-left: 3px;
+    height: 30px;
+    width: 252px; 
+}
+/* for table centre allignment */
+.allign {
+    padding: 20px;
+    text-align: center;
+}
+/* for button */
+Button {
+    background-color: cyan;
+    color: red;
+    height: 50px;
+    width: 45px;
+}
+/* for special = result button */
+#Result {
+    color: rgb(255, 0, 0);
+    height: 104px;
+}
